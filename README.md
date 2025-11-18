@@ -1,6 +1,6 @@
 # Yiğit Can Özdemir ✨
 
-### Freelance AI Engineer | RAG Pipelines | LLM Integration | AWS & Docker | Next.js
+### Freelance AI Engineer | RAG Pipelines | Vector Search | LLM Integration | AWS & Docker | Next.js
 
 ---
 
