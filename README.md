@@ -18,7 +18,7 @@ I build systems that are **deterministic, observable, and maintainable** — lon
 - Deploying applications on **AWS** with **Docker**
 - Delivering clean, lightweight interfaces using **Next.js**
 
-Before freelancing, I worked as an **AI Engineer in industrial automation**, developing predictive maintenance models, computer vision tooling, and real-time monitoring dashboards for steel production lines.
+Before freelancing, I worked as an **AI Engineer in industrial automation**, developing predictive maintenance models, computer vision tooling, and monitoring dashboards for steel production lines.
 
 ---
 
@@ -79,7 +79,7 @@ Ensure long-term maintainability.
 
 - Developed predictive maintenance models (TensorFlow, LSTM)  
 - Built steel width measurement tools with OpenCV  
-- Created real-time monitoring dashboards using Flask  
+- Created monitoring dashboards using Flask  
 - Worked with production engineers to align outputs with real operational constraints  
 
 ---
