@@ -102,7 +102,7 @@ If you need an AI system that **works reliably in real operations**, feel free t
 |--------|---------|
 | **Email** | hello@yigitcanozdemir.com |
 | **LinkedIn** | https://www.linkedin.com/in/yigit-can-ozdemir |
-| **Portfolio** | https://www.yigitcanozdemir.com |
+| **Website** | https://www.yigitcanozdemir.com |
 
 ---
 
